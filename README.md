@@ -4,7 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Author:** Mingchen Li  
-**Working Paper:** [Link to your SSRN page or Personal Website] *(Update this link once uploaded)*
 
 ## Overview
 This repository contains the replication codes for the working paper *"Hotelling in Structural Change: Green Paradox and Delayed Transformation"*. 
