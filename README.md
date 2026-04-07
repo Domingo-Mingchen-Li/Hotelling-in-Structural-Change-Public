@@ -14,11 +14,12 @@ This repository contains the replication codes for the working paper *"Hotelling
 * `solve_shooting_2sector_inverted.m`: The core algorithm featuring inverted physical logic and smart damping for solving non-linear transitional dynamics.
 * `run_precision_homotopy_2sector.m`: An adaptive multi-dimensional homotopy engine for policy interventions and parameter transitions.
 * `solve_backward_step_2sector.m`: The single-period general equilibrium solver.
+* `solve_full_backward_path_2sector.m`: Executes the backward-shooting process to derive the entire transitional dynamics path given the terminal T-period equilibrium configuration.
 * `solve_terminal_ABGP_2sector.m`: Computes the terminal Asymptotic Balanced Growth Path (ABGP).
-* `static_kernel_2sector.m`: The static equilibrium kernel resolving factor prices and allocations.
+* `static_kernel_2sector.m`: The static equilibrium kernel resolving factor prices and allocations on ABGP.
 * `get_growth_rates_2sector.m`: Calculates the ABGP growth rates.
 
-### 2. Experiments & Tests (Main Program)
+### 2. Experiments & Tests
 * `test_policy_intervention.m`: Simulates the implementation of intuitively clean industrial policies and visualizes the resulting "Structural Green Paradox".
 * `test_counterfactual.m`: A counterfactual experiment completely freezing the structural change mechanism to isolate the pure Baumol/relative price effect from the Engel/income effect.
 
