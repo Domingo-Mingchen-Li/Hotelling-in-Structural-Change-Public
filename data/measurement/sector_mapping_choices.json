@@ -1,0 +1,145 @@
+{
+  "notes": [
+    "C26 mapping sensitivity with fixed technology growth."
+  ],
+  "cases": [
+    {
+      "id": "mapping_reference",
+      "description": "Original sector mapping, full precision control",
+      "mapping": {
+        "R": [
+          "B"
+        ],
+        "e": [
+          "C19",
+          "C20",
+          "C23",
+          "C24",
+          "D35"
+        ],
+        "m": [
+          "C10-C12",
+          "C13-C15",
+          "C16",
+          "C17",
+          "C18",
+          "C21",
+          "C22",
+          "C31_C32"
+        ],
+        "x": [
+          "C25",
+          "C26",
+          "C27",
+          "C28",
+          "C29",
+          "C30",
+          "C33",
+          "F"
+        ],
+        "s": [
+          "E36",
+          "E37-E39",
+          "G45",
+          "G46",
+          "G47",
+          "H49",
+          "H50",
+          "H51",
+          "H52",
+          "H53",
+          "I",
+          "J58",
+          "J59_J60",
+          "J61",
+          "J62_J63",
+          "K64",
+          "K65",
+          "K66",
+          "L68",
+          "M69_M70",
+          "M71",
+          "M72",
+          "M73",
+          "M74_M75",
+          "N",
+          "O84",
+          "P85",
+          "Q",
+          "R_S",
+          "T",
+          "U"
+        ]
+      }
+    },
+    {
+      "id": "mapping_c26",
+      "description": "Move C26 from investment to manufacturing; pooled capital share, global inputs",
+      "mapping": {
+        "R": [
+          "B"
+        ],
+        "e": [
+          "C19",
+          "C20",
+          "C23",
+          "C24",
+          "D35"
+        ],
+        "m": [
+          "C10-C12",
+          "C13-C15",
+          "C16",
+          "C17",
+          "C18",
+          "C21",
+          "C22",
+          "C31_C32",
+          "C26"
+        ],
+        "x": [
+          "C25",
+          "C27",
+          "C28",
+          "C29",
+          "C30",
+          "C33",
+          "F"
+        ],
+        "s": [
+          "E36",
+          "E37-E39",
+          "G45",
+          "G46",
+          "G47",
+          "H49",
+          "H50",
+          "H51",
+          "H52",
+          "H53",
+          "I",
+          "J58",
+          "J59_J60",
+          "J61",
+          "J62_J63",
+          "K64",
+          "K65",
+          "K66",
+          "L68",
+          "M69_M70",
+          "M71",
+          "M72",
+          "M73",
+          "M74_M75",
+          "N",
+          "O84",
+          "P85",
+          "Q",
+          "R_S",
+          "T",
+          "U"
+        ]
+      }
+    }
+  ]
+}

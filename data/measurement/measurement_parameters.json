@@ -1,0 +1,165 @@
+{
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "sector_order": [
+    "m",
+    "s",
+    "x",
+    "e"
+  ],
+  "sector_mapping": {
+    "e": [
+      "C19",
+      "C20",
+      "C23",
+      "C24",
+      "D35"
+    ],
+    "m": [
+      "C10-C12",
+      "C13-C15",
+      "C16",
+      "C17",
+      "C18",
+      "C21",
+      "C22",
+      "C31_C32"
+    ],
+    "x": [
+      "C25",
+      "C26",
+      "C27",
+      "C28",
+      "C29",
+      "C30",
+      "C33",
+      "F"
+    ],
+    "s": [
+      "E36",
+      "E37-E39",
+      "G45",
+      "G46",
+      "G47",
+      "H49",
+      "H50",
+      "H51",
+      "H52",
+      "H53",
+      "I",
+      "J58",
+      "J59_J60",
+      "J61",
+      "J62_J63",
+      "K64",
+      "K65",
+      "K66",
+      "L68",
+      "M69_M70",
+      "M71",
+      "M72",
+      "M73",
+      "M74_M75",
+      "N",
+      "O84",
+      "P85",
+      "Q",
+      "R_S",
+      "T",
+      "U"
+    ]
+  },
+  "notes": [
+    "Annual: mean of each complete annual alpha/beta pair; global inputs.",
+    "Domestic: original pooled capital-income aggregation; mean annual domestic beta.",
+    "Original baseline remains the rounded values in solver_config.m.",
+    "CAP and COMP in million local currency; WIOT VA/inputs in million USD. Only within-source ratios are combined."
+  ],
+  "summary": {
+    "m": {
+      "pooled_alpha_tilde": 0.5943554219735557,
+      "reproduced_alpha_using_rounded_beta": 0.41462234236875245,
+      "annual_alpha": 0.42449693014919904,
+      "annual_beta": 0.302352584903736,
+      "domestic_alpha": 0.4307125966731389,
+      "domestic_beta": 0.27532822827970715
+    },
+    "s": {
+      "pooled_alpha_tilde": 0.4965496229289012,
+      "reproduced_alpha_using_rounded_beta": 0.4451567369557599,
+      "annual_alpha": 0.4649125559313626,
+      "annual_beta": 0.10347346105676183,
+      "domestic_alpha": 0.44808471892159535,
+      "domestic_beta": 0.09760334469984142
+    },
+    "x": {
+      "pooled_alpha_tilde": 0.4848589761201936,
+      "reproduced_alpha_using_rounded_beta": 0.22230784055110878,
+      "annual_alpha": 0.2322547003565758,
+      "annual_beta": 0.5414915211845314,
+      "domestic_alpha": 0.23092157764793023,
+      "domestic_beta": 0.5237345516509812
+    },
+    "e": {
+      "pooled_alpha_tilde": 0.6662253968584827,
+      "reproduced_alpha_using_rounded_beta": 0.35063442636661946,
+      "annual_alpha": 0.3475359890872715,
+      "annual_beta": 0.4737091328667871,
+      "domestic_alpha": 0.38912787054632325,
+      "domestic_beta": 0.4159215899285503
+    }
+  },
+  "cases": {
+    "annual_average": [
+      [
+        0.42449693014919904,
+        0.302352584903736
+      ],
+      [
+        0.4649125559313626,
+        0.10347346105676183
+      ],
+      [
+        0.2322547003565758,
+        0.5414915211845314
+      ],
+      [
+        0.3475359890872715,
+        0.4737091328667871
+      ]
+    ],
+    "domestic_inputs": [
+      [
+        0.4307125966731389,
+        0.27532822827970715
+      ],
+      [
+        0.44808471892159535,
+        0.09760334469984142
+      ],
+      [
+        0.23092157764793023,
+        0.5237345516509812
+      ],
+      [
+        0.38912787054632325,
+        0.4159215899285503
+      ]
+    ]
+  }
+}

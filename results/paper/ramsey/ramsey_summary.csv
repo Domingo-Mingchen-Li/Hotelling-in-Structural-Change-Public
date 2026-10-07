@@ -1,0 +1,3 @@
+tools,calendar_terminal,announcement_date,eta,loss_target,chi,consumption_utility_change,environment_welfare_change,net_welfare_change,net_gain_in_fixed_anchor_units,projected_gradient,multistart_gain_spread,upper_bound_active,equilibrium_residual,terminal_investment_gap,passed,global_optimum_certified,zero_rent_corners_included
+resource,200,10,2,0.01,0.0497231331585017,-0.0146748055644821,0.0296936010866891,0.015018795522207,0.0223425187575719,1.89914055568913e-05,2.65042188508924e-08,0,1.13450445827909e-14,-3.28174517005841e-05,1,0,0
+resource,300,10,2,0.01,0.0497231331585017,-0.0146592014940552,0.0296781588382636,0.0150189573442084,0.0223427594899993,1.54536063342505e-05,4.72404374958491e-08,0,2.41070748585338e-14,-1.07537809612701e-06,1,0,0
