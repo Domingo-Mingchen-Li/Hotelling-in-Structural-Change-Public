@@ -1,0 +1,146 @@
+[
+  {
+    "file": "results/paper/transition/report.mat",
+    "source_package": "base",
+    "source_path": "base/outputs/experiments_paper_T200_20261002_214543_474/report.mat",
+    "sha256": "5b570939a97d2648e497dcecf348c19b9b1876a56c677b9a0fbf863710b92ec2"
+  },
+  {
+    "file": "results/paper/horizon/report.mat",
+    "source_package": "base",
+    "source_path": "base/outputs/robustness_paper_T50_75_100_200_20261002_214848_260/report.mat",
+    "sha256": "4fc34bdb58fe424f0692fa0922b711e94a2ff79665f56e7313e0f2bb83ceef95"
+  },
+  {
+    "file": "results/paper/measurement/calibration_output/calibration_report.mat",
+    "source_package": "base",
+    "source_path": "base/outputs/calibration_output/calibration_report.mat",
+    "sha256": "2b9593b27bd735461eab43e05a09a8c1ad6b1eb3d2f94a105d91edafb03991d9"
+  },
+  {
+    "file": "results/paper/measurement/annual_average/report.mat",
+    "source_package": "measurement",
+    "source_path": "measurement/outputs/measurement_robustness/annual_average/policies/experiments_paper_T200_20261005_163247_248_measurement_annual_average/report.mat",
+    "sha256": "1053751fa6d82b8d7c979564de7d8e73c47fbd44fa957fc5f5545efc231094d0"
+  },
+  {
+    "file": "results/paper/measurement/annual_average/measurement_report.mat",
+    "source_package": "measurement",
+    "source_path": "measurement/outputs/measurement_robustness/annual_average/policies/experiments_paper_T200_20261005_163247_248_measurement_annual_average/measurement_report.mat",
+    "sha256": "c4db5dc66d30b41426a0cfd6d4d73dd2b44a6ff30fe2a711f96dcdd18f5f0901"
+  },
+  {
+    "file": "results/paper/measurement/reference/experiments_paper_T200_20261005_163222_209_measurement_reference/report.mat",
+    "source_package": "measurement",
+    "source_path": "measurement/outputs/measurement_robustness/reference/experiments_paper_T200_20261005_163222_209_measurement_reference/report.mat",
+    "sha256": "d33cc88c25127835f1f2b31e99cb9f1ae2104fb82b36789898bebb5274851715"
+  },
+  {
+    "file": "results/paper/measurement/domestic_inputs/report.mat",
+    "source_package": "measurement",
+    "source_path": "measurement/outputs/measurement_robustness/domestic_inputs/policies/experiments_paper_T200_20261005_165245_254_measurement_domestic_inputs/report.mat",
+    "sha256": "556ca077672885d5ff4cf64a6ac9d0ad0f9e5e8b88808e187c12c69bcd48b6b3"
+  },
+  {
+    "file": "results/paper/measurement/domestic_inputs/measurement_report.mat",
+    "source_package": "measurement",
+    "source_path": "measurement/outputs/measurement_robustness/domestic_inputs/policies/experiments_paper_T200_20261005_165245_254_measurement_domestic_inputs/measurement_report.mat",
+    "sha256": "2cfa11968362f64a8fec324fa269917b01befcd1075003bbbb9a596e286f3cb5"
+  },
+  {
+    "file": "results/paper/measurement/reference/experiments_paper_T200_20261005_165219_254_measurement_reference/report.mat",
+    "source_package": "measurement",
+    "source_path": "measurement/outputs/measurement_robustness/reference/experiments_paper_T200_20261005_165219_254_measurement_reference/report.mat",
+    "sha256": "16f94afdad52a1a36f72fb23092e5006e204d849adaf93cbd9ecb5fb8e7f9d4c"
+  },
+  {
+    "file": "results/paper/measurement/mapping_c26/report.mat",
+    "source_package": "measurement",
+    "source_path": "measurement/outputs/measurement_robustness_mapping_expanded/mapping_c26/policies/experiments_paper_T200_20261005_174407_658_measurement_mapping_c26/report.mat",
+    "sha256": "682d0daaa9a88a864ae5e177b83d6190ac4165320d7ab3475aaae4c604221de5"
+  },
+  {
+    "file": "results/paper/measurement/mapping_c26/measurement_report.mat",
+    "source_package": "measurement",
+    "source_path": "measurement/outputs/measurement_robustness_mapping_expanded/mapping_c26/policies/experiments_paper_T200_20261005_174407_658_measurement_mapping_c26/measurement_report.mat",
+    "sha256": "aef3725bba78707779a613015219451e69460b925e7a3e752705689c164d7a2b"
+  },
+  {
+    "file": "results/paper/measurement/reference/experiments_paper_T200_20261005_174350_167_measurement_reference/report.mat",
+    "source_package": "measurement",
+    "source_path": "measurement/outputs/measurement_robustness_mapping_expanded/reference/experiments_paper_T200_20261005_174350_167_measurement_reference/report.mat",
+    "sha256": "bd10e83a2e797cfb6ba01c1b5376bafa9c89018e57d5e788ac17365cbad0fa92"
+  },
+  {
+    "file": "results/paper/counterfactual/counterfactual_report.mat",
+    "source_package": "counterfactual",
+    "source_path": "counterfactual/outputs/resource_intensity_counterfactual/experiments_paper_T200_20261005_182514_103_flat_resource_input_shares/counterfactual_report.mat",
+    "sha256": "e665ea781d57d6653b31c66fe72be2e418166b6865b12eb1c2abf902bfbe3ddb"
+  },
+  {
+    "file": "results/paper/climate/climate_report.mat",
+    "source_package": "climate",
+    "source_path": "climate/outputs/climate_parameterization/experiments_paper_T200_300_20261005_214226_127_climate_parameters/climate_report.mat",
+    "sha256": "0867aee047c86c503f57799a8cc4c9ec5a4a20be0c70693745b090eeba3486bb"
+  },
+  {
+    "file": "results/paper/welfare/industrial_welfare_report.mat",
+    "source_package": "climate",
+    "source_path": "climate/outputs/industrial_welfare/experiments_paper_T200_300_20261005_220131_059_industrial_welfare/industrial_welfare_report.mat",
+    "sha256": "0bf74cbd930910b4cc813d3fc97819c34ce2529e0299c160ff93375408654322"
+  },
+  {
+    "file": "results/paper/ramsey/ramsey_report.mat",
+    "source_package": "climate",
+    "source_path": "climate/outputs/ramsey/experiments_paper_T200_300_20261005_222153_702_ramsey_resource/ramsey_report.mat",
+    "sha256": "a85e7f01e19bcbf379881851677b7dfa3c9ca7e51fb82054dcb79ac7f0adf51b"
+  },
+  {
+    "file": "results/paper/ramsey/ramsey_summary.csv",
+    "source_package": "climate",
+    "source_path": "climate/outputs/ramsey/experiments_paper_T200_300_20261005_222153_702_ramsey_resource/ramsey_summary.csv",
+    "sha256": "419fac1d614f64d0329573216f58ccc3016017c310292d45a99fd8775d7895b9"
+  },
+  {
+    "file": "results/paper/ramsey/ramsey_path_T200.csv",
+    "source_package": "climate",
+    "source_path": "climate/outputs/ramsey/experiments_paper_T200_300_20261005_222153_702_ramsey_resource/ramsey_path_T200.csv",
+    "sha256": "3d16d5bdd5ab0009e0f869857d959218127b8d3d95b04690a33b5e76e48cd4ac"
+  },
+  {
+    "file": "results/paper/ramsey/ramsey_path_T300.csv",
+    "source_package": "climate",
+    "source_path": "climate/outputs/ramsey/experiments_paper_T200_300_20261005_222153_702_ramsey_resource/ramsey_path_T300.csv",
+    "sha256": "3933e9ee1c4edcc8b22318810df16057d69993585a66a07acfa848108a6555e0"
+  },
+  {
+    "file": "results/paper/shared_state/ramsey_shared_state_report.mat",
+    "source_package": "climate",
+    "source_path": "climate/outputs/ramsey_shared_state_counterfactual/experiments_paper_T200_300_20261005_231558_351_ramsey_shared_state_flat_intensity/ramsey_shared_state_report.mat",
+    "sha256": "e51b1b09ab1b2bcbbd8f4ebf65da0b1f0e4d50e3dcfbcf0815faedc6455028d6"
+  },
+  {
+    "file": "results/paper/shared_state/optimal_welfare_comparison.csv",
+    "source_package": "climate",
+    "source_path": "climate/outputs/ramsey_shared_state_counterfactual/experiments_paper_T200_300_20261005_231558_351_ramsey_shared_state_flat_intensity/optimal_welfare_comparison.csv",
+    "sha256": "3e926afe9eddbe5b7cc5b45539fedadee849cadd8fd9cd5bf75d3cf84dd614be"
+  },
+  {
+    "file": "results/paper/shared_state/optimal_tax_comparison_T200.csv",
+    "source_package": "climate",
+    "source_path": "climate/outputs/ramsey_shared_state_counterfactual/experiments_paper_T200_300_20261005_231558_351_ramsey_shared_state_flat_intensity/optimal_tax_comparison_T200.csv",
+    "sha256": "c24575a59c1c85790b5a2c366308bddd5bbd18231189c64d75b4ba607b4efeed"
+  },
+  {
+    "file": "results/paper/shared_state/optimal_tax_comparison_T300.csv",
+    "source_package": "climate",
+    "source_path": "climate/outputs/ramsey_shared_state_counterfactual/experiments_paper_T200_300_20261005_231558_351_ramsey_shared_state_flat_intensity/optimal_tax_comparison_T300.csv",
+    "sha256": "05eb3c98b22807260200762157a4474d862c33867fbf7ab44a4538abab58fbb4"
+  },
+  {
+    "file": "results/paper/shared_state/inherited_states_comparison.csv",
+    "source_package": "climate",
+    "source_path": "climate/outputs/ramsey_shared_state_counterfactual/experiments_paper_T200_300_20261005_231558_351_ramsey_shared_state_flat_intensity/inherited_states_comparison.csv",
+    "sha256": "0e5fbf50a43b4ff0d7c6c95582a02ef69a83a1b08184a3fa1925220f51396c1b"
+  }
+]

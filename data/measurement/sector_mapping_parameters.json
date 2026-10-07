@@ -1,0 +1,285 @@
+{
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "sector_order": [
+    "m",
+    "s",
+    "x",
+    "e"
+  ],
+  "aggregation": "Original pooled CAP/(CAP+COMP), arithmetic mean of annual global beta; full precision",
+  "final_use_scope": "CHN producer rows to CHN final-use columns; excludes inventories, exports and intermediate uses",
+  "final_use_diagnostic": [
+    {
+      "code": "C25",
+      "consumption": 67907.71030916169,
+      "GFCF": 246844.97786775776,
+      "GFCF_share": 0.7842505787560059,
+      "mean_annual_GFCF_share": 0.6690069869340876,
+      "consumption_dominant_years": 4,
+      "positive_final_use_years": 15
+    },
+    {
+      "code": "C26",
+      "consumption": 284489.1628826547,
+      "GFCF": 247508.5745709155,
+      "GFCF_share": 0.4652436601622139,
+      "mean_annual_GFCF_share": 0.48911158836456653,
+      "consumption_dominant_years": 7,
+      "positive_final_use_years": 15
+    },
+    {
+      "code": "C27",
+      "consumption": 365274.39520483406,
+      "GFCF": 690265.32889079,
+      "GFCF_share": 0.6539453827587612,
+      "mean_annual_GFCF_share": 0.5686852027628442,
+      "consumption_dominant_years": 4,
+      "positive_final_use_years": 15
+    },
+    {
+      "code": "C28",
+      "consumption": 46206.45248502319,
+      "GFCF": 2419240.769233796,
+      "GFCF_share": 0.981258389115785,
+      "mean_annual_GFCF_share": 0.9816735611955387,
+      "consumption_dominant_years": 0,
+      "positive_final_use_years": 15
+    },
+    {
+      "code": "C29",
+      "consumption": 469382.8743027304,
+      "GFCF": 2210593.375761169,
+      "GFCF_share": 0.8248555843390258,
+      "mean_annual_GFCF_share": 0.8599457426415064,
+      "consumption_dominant_years": 0,
+      "positive_final_use_years": 15
+    },
+    {
+      "code": "C30",
+      "consumption": 168657.12738493222,
+      "GFCF": 808667.6282687226,
+      "GFCF_share": 0.8274298011901572,
+      "mean_annual_GFCF_share": 0.7841880230434415,
+      "consumption_dominant_years": 0,
+      "positive_final_use_years": 15
+    },
+    {
+      "code": "C33",
+      "consumption": 0.0,
+      "GFCF": 0.0,
+      "GFCF_share": null,
+      "mean_annual_GFCF_share": null,
+      "consumption_dominant_years": 0,
+      "positive_final_use_years": 0
+    },
+    {
+      "code": "F",
+      "consumption": 51610.67462446313,
+      "GFCF": 17012041.81958083,
+      "GFCF_share": 0.9969754028545771,
+      "mean_annual_GFCF_share": 0.9957913447553356,
+      "consumption_dominant_years": 0,
+      "positive_final_use_years": 15
+    }
+  ],
+  "cases": {
+    "mapping_reference": {
+      "shares": [
+        [
+          0.41465052378830036,
+          0.302352584903736
+        ],
+        [
+          0.4451699148580178,
+          0.10347346105676183
+        ],
+        [
+          0.2223119515808956,
+          0.5414915211845314
+        ],
+        [
+          0.35062834181881974,
+          0.4737091328667871
+        ]
+      ],
+      "targets": [
+        1.63,
+        0.775083520605178,
+        0.07199915550266978
+      ],
+      "description": "Original sector mapping, full precision control",
+      "mapping": {
+        "R": [
+          "B"
+        ],
+        "e": [
+          "C19",
+          "C20",
+          "C23",
+          "C24",
+          "D35"
+        ],
+        "m": [
+          "C10-C12",
+          "C13-C15",
+          "C16",
+          "C17",
+          "C18",
+          "C21",
+          "C22",
+          "C31_C32"
+        ],
+        "x": [
+          "C25",
+          "C26",
+          "C27",
+          "C28",
+          "C29",
+          "C30",
+          "C33",
+          "F"
+        ],
+        "s": [
+          "E36",
+          "E37-E39",
+          "G45",
+          "G46",
+          "G47",
+          "H49",
+          "H50",
+          "H51",
+          "H52",
+          "H53",
+          "I",
+          "J58",
+          "J59_J60",
+          "J61",
+          "J62_J63",
+          "K64",
+          "K65",
+          "K66",
+          "L68",
+          "M69_M70",
+          "M71",
+          "M72",
+          "M73",
+          "M74_M75",
+          "N",
+          "O84",
+          "P85",
+          "Q",
+          "R_S",
+          "T",
+          "U"
+        ]
+      }
+    },
+    "mapping_c26": {
+      "shares": [
+        [
+          0.4008628805410943,
+          0.30684645559396473
+        ],
+        [
+          0.4451699148580178,
+          0.10347346105676183
+        ],
+        [
+          0.20799234952984286,
+          0.5670463237691102
+        ],
+        [
+          0.35062834181881974,
+          0.4737091328667871
+        ]
+      ],
+      "targets": [
+        1.63,
+        0.748474588336023,
+        0.05909558561903183
+      ],
+      "description": "Move C26 from investment to manufacturing; pooled capital share, global inputs",
+      "mapping": {
+        "R": [
+          "B"
+        ],
+        "e": [
+          "C19",
+          "C20",
+          "C23",
+          "C24",
+          "D35"
+        ],
+        "m": [
+          "C10-C12",
+          "C13-C15",
+          "C16",
+          "C17",
+          "C18",
+          "C21",
+          "C22",
+          "C31_C32",
+          "C26"
+        ],
+        "x": [
+          "C25",
+          "C27",
+          "C28",
+          "C29",
+          "C30",
+          "C33",
+          "F"
+        ],
+        "s": [
+          "E36",
+          "E37-E39",
+          "G45",
+          "G46",
+          "G47",
+          "H49",
+          "H50",
+          "H51",
+          "H52",
+          "H53",
+          "I",
+          "J58",
+          "J59_J60",
+          "J61",
+          "J62_J63",
+          "K64",
+          "K65",
+          "K66",
+          "L68",
+          "M69_M70",
+          "M71",
+          "M72",
+          "M73",
+          "M74_M75",
+          "N",
+          "O84",
+          "P85",
+          "Q",
+          "R_S",
+          "T",
+          "U"
+        ]
+      }
+    }
+  }
+}
